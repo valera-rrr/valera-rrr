@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://png.pngtree.com/template/20220505/ourmid/pngtree-coders-and-programmers-team-banner-image_1312415.jpg" />
+</p>
+
 <h1 align="center">Валера — Frontend Developer</h1>
 
 <p align="center">

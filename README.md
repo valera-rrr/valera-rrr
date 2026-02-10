@@ -1,16 +1,86 @@
-## Hi there 👋
+<h1 align="center">Валера — Frontend Developer</h1>
 
-<!--
-**valera-rrr/valera-rrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>React • JavaScript • Vite</b><br/>
+  Делаю аккуратные интерфейсы с фокусом на UX и чистую архитектуру
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow" />
+  <img src="https://img.shields.io/badge/SCSS-styles-pink" />
+  <img src="https://img.shields.io/badge/Vite-fast-purple" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Обо мне
+Frontend-разработчик с упором на **React** и современную вёрстку.  
+Люблю превращать дизайн из **Figma** в чистый, отзывчивый UI и писать понятный, поддерживаемый код.
+
+Pet-проекты использую как способ:
+- прокачивать архитектуру
+- закреплять лучшие практики React
+- доводить интерфейсы до “приятно пользоваться”
+
+---
+
+## 🚀 Избранные проекты
+
+### 🔹 Project One
+👉 https://github.com/valera-rrr/stream-vibe
+
+Проект представляет собой многостраничный сайт стримингового сервиса с компонентной архитектурой, 
+интерактивными UI-элементами и production-деплоем.
+
+---
+
+### 🔹 Project Two
+👉 https://github.com/valera-rrr/positivus
+
+Positivus — это HTML / SCSS landing page, созданная:
+
+для практики адаптивной вёрстки;
+
+для отработки навыков SCSS (предпроцессор);
+
+для демонстрации понимания семантической HTML-разметки;
+
+---
+
+📌 Больше проектов — в закреплённых репозиториях ниже.
+
+---
+
+## 🛠️ Стек
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- SCSS
+- Vite
+- Figma
+
+---
+
+## 📊 GitHub
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=valera-rrr"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+## 📫 Связь
+- Telegram: @valentaynin
+- Email: valera.r.2008@mail.ru
+
+---
+
+<p align="center">
+  <i>Открыт к предложениям и интересным проектам</i>
+</p>
+
+---
+

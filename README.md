@@ -66,16 +66,6 @@ Pet-проекты использую как способ:
 
 ---
 
-## 📊 GitHub
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=valera-rrr"
-    alt="GitHub streak"
-  />
-</p>
-
----
-
 ## 📫 Связь
 - Telegram: @valentaynin
 - Email: valera.r.2008@mail.ru
